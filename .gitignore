@@ -1,5 +1,7 @@
 *.iml
+*.apk
 .gradle
+.idea
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -10,6 +12,8 @@
 .DS_Store
 /build
 /captures
+/gradlew
+/gradlew.bat
 .externalNativeBuild
 .cxx
 local.properties
